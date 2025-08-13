@@ -19,7 +19,7 @@ const HeroSection = ({ onViewProgress }) => {
           <Heart className="w-4 h-4 text-red-300 animate-pulse" />
           <span>Tribute to Pakistan by <strong>Muhammad</strong></span>
           <a
-            href="https://www.linkedin.com/in/muhammad-binmushtaq/"
+            href="https://www.linkedin.com/in/muhammad-bin-mushtaq1/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-1 hover:text-yellow-300 transition"
