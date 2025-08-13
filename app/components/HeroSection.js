@@ -24,12 +24,12 @@ const HeroSection = ({ onViewProgress }) => {
             rel="noopener noreferrer"
             className="flex items-center space-x-1 hover:text-yellow-300 transition"
           >
-            <ExternalLink className="w-3 h-3" />
+            <ExternalLink className="w-3 h-3 " />
             <span>Visit Profile</span>
           </a>
         </div>
 
-        {/* Since 14 August */}
+        {/* Since 14 and August */}
         <div className="mb-8">
           <div className="inline-flex items-center bg-green-100 text-green-800 px-6 py-3 rounded-full text-lg font-semibold mb-6">
             <Star className="w-5 h-5 mr-2" />
