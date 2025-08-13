@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Minar-e-Pakistan",
+    "type": "monument",
+    "latitude": 31.5925,
+    "longitude": 74.3095,
+    "image": "https://cdn-blog.zameen.com/blog/wp-content/uploads/2022/03/Body-2-7-1024x640.jpg",
+    "description": "Tower of Pakistan built to commemorate the Lahore Resolution where Pakistan's independence was demanded.",
+    "detail": "Constructed between 1960 and 1968, Minar-e-Pakistan stands at 70 meters. It blends Mughal, Islamic, and modern architecture, symbolizing Pakistan’s struggle for freedom."
+  },
+  {
+    "id": 2,
+    "title": "Badshahi Mosque",
+    "type": "religious",
+    "latitude": 31.5880,
+    "longitude": 74.3093,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/c6/75/fe/badshahi-masjid-lahore.jpg?w=900&h=-1&s=1",
+    "description": "17th-century Mughal-era mosque, one of the largest in the world with capacity for 100,000 worshippers.",
+    "detail": "Commissioned by Emperor Aurangzeb in 1671, the mosque’s red sandstone structure and marble domes showcase Mughal grandeur at its peak."
+  },
+  {
+    "id": 3,
+    "title": "Faisal Mosque",
+    "type": "religious",
+    "latitude": 33.7294,
+    "longitude": 73.0931,
+    "image": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HduBfv8J4sW-s-Tk7B3ANA.jpeg",
+    "description": "Modern mosque shaped like a desert tent, the largest in South Asia with striking contemporary design.",
+    "detail": "Gifted by King Faisal of Saudi Arabia, it was completed in 1986. Its unique tent-like design was inspired by the desert Bedouin tents."
+  },
+  {
+    "id": 4,
+    "title": "Lahore Fort",
+    "type": "historical",
+    "latitude": 31.5880,
+    "longitude": 74.3093,
+    "image": "https://cdn.britannica.com/38/250238-050-21F76AE4/Lahore-fort-UNESCO-World-Heritage-site-Punjab-Pakistan.jpg",
+    "description": "UNESCO World Heritage Site showcasing Mughal architecture with the famous Sheesh Mahal (Palace of Mirrors).",
+    "detail": "The fort’s history spans over a thousand years, with additions from Mughal, Sikh, and British rulers, making it a layered historical masterpiece."
+  },
+  {
+    "id": 5,
+    "title": "Hunza Valley",
+    "type": "natural",
+    "latitude": 36.3167,
+    "longitude": 74.6500,
+    "image": "https://seepakistantours.com/wp-content/uploads/2022/11/Fairy-Meadows-Skardu-Hunza-12-Days-tour.jpg",
+    "description": "Breathtaking mountain valley known for its turquoise lakes, glaciers, and the legendary longevity of its people.",
+    "detail": "Located in Gilgit-Baltistan, Hunza is famous for the Passu Cones, Attabad Lake, and a culture rooted in harmony and hospitality."
+  },
+  {
+    "id": 6,
+    "title": "Mohenjo-Daro",
+    "type": "archaeological",
+    "latitude": 27.3292,
+    "longitude": 68.1389,
+    "image": "https://stdc.gos.pk/wp-content/uploads/2024/10/Mohenjo-Daro-Canvas-2-16x20-copies-scaled.jpg",
+    "description": "Ancient Indus Valley Civilization city dating back to 2500 BCE, one of the world's earliest major urban settlements.",
+    "detail": "Its planned streets, drainage systems, and granaries show the sophistication of the Indus Valley civilization long before modern cities."
+  },
+  {
+    "id": 7,
+    "title": "K2 Base Camp",
+    "type": "natural",
+    "latitude": 35.7633,
+    "longitude": 76.5714,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/K2_2006b.jpg",
+    "description": "Gateway to the world's second highest mountain (8,611m) in the spectacular Karakoram range.",
+    "detail": "The trek to K2 Base Camp is among the toughest in the world, taking adventurers through glaciers, rugged terrain, and breathtaking views."
+  },
+  {
+    "id": 8,
+    "title": "Mazar-e-Quaid",
+    "type": "monument",
+    "latitude": 24.8747,
+    "longitude": 67.0397,
+    "image": "https://stdc.gos.pk/wp-content/uploads/2024/10/Mazar-e-Quaid-Canvas-16x20-1-scaled.jpg",
+    "description": "White marble mausoleum of Muhammad Ali Jinnah, founder of Pakistan, in Karachi.",
+    "detail": "Designed by Yahya Merchant, the mausoleum’s simplicity and grandeur reflect Jinnah’s vision for Pakistan."
+  },
+  {
+    "id": 9,
+    "title": "Shalimar Gardens",
+    "type": "historical",
+    "latitude": 31.5853,
+    "longitude": 74.3775,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/39/b2/ab/the-shalimar-gardens.jpg?w=800&h=500&s=1",
+    "description": "Mughal-era gardens built in 1641 with 410 fountains, a UNESCO World Heritage Site.",
+    "detail": "Built by Emperor Shah Jahan, the gardens represent the Persian-style Charbagh layout with terraces and flowing water channels."
+  },
+  {
+    "id": 10,
+    "title": "Gwadar Port",
+    "type": "modern",
+    "latitude": 25.1264,
+    "longitude": 62.3225,
+    "image": "https://www.ppmela.com/wp-content/uploads/2020/12/Beachview-Road-Gwadar-City-Copy.jpg",
+    "description": "Deep-sea port on the Arabian Sea, centerpiece of the China-Pakistan Economic Corridor (CPEC) project.",
+    "detail": "Strategically located near key shipping routes, Gwadar is envisioned as a trade and logistics hub connecting Asia, Africa, and Europe."
+  }
+]

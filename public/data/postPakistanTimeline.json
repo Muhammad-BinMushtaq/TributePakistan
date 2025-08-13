@@ -1,0 +1,138 @@
+[
+  {
+    "year": 1947,
+    "title": "Independence of Pakistan",
+    "description": "Pakistan emerges as an independent state on 14 August; Karachi becomes the capital.",
+    "icon": "🇵🇰",
+    "image": "/images/timeline/1947.jpg",
+    "impact": "A new nation is born on the global stage."
+  },
+  {
+    "year": 1948,
+    "title": "Quaid-e-Azam Passes Away",
+    "description": "Muhammad Ali Jinnah, the founder of Pakistan, dies on 11 September.",
+    "icon": "🕊️",
+    "image": "/images/timeline/1948.jpg",
+    "impact": "The loss of a founding father and visionary leader."
+  },
+  {
+    "year": 1956,
+    "title": "First Constitution & Republic",
+    "description": "Pakistan adopts its first constitution; becomes the Islamic Republic of Pakistan (23 March).",
+    "icon": "📜",
+    "image": "/images/timeline/1956.jpg",
+    "impact": "Formalization of the state's legal and political identity."
+  },
+  {
+    "year": 1965,
+    "title": "Indo–Pak War",
+    "description": "A major war with India over Kashmir; ceasefire via Tashkent Declaration (1966).",
+    "icon": "⚔️",
+    "image": "/images/timeline/1965.jpg",
+    "impact": "A defining conflict that shaped regional dynamics."
+  },
+  {
+    "year": 1971,
+    "title": "Separation of East Pakistan",
+    "description": "After civil war and Indo–Pak conflict, East Pakistan becomes Bangladesh (16 Dec).",
+    "icon": "💔",
+    "image": "/images/timeline/1971.jpg",
+    "impact": "The most significant geopolitical event in the nation's history."
+  },
+  {
+    "year": 1973,
+    "title": "1973 Constitution",
+    "description": "A consensus constitution establishing a parliamentary system, still foundational today.",
+    "icon": "⚖️",
+    "image": "/images/timeline/1973.jpg",
+    "impact": "A framework for governance that has endured for decades."
+  },
+  {
+    "year": 1974,
+    "title": "Islamic Summit in Lahore",
+    "description": "Historic OIC summit hosted by Pakistan strengthens ties across the Muslim world.",
+    "icon": "🤝",
+    "image": "/images/timeline/1974.jpg",
+    "impact": "A moment of global diplomacy and unity."
+  },
+  {
+    "year": 1988,
+    "title": "Benazir Bhutto Becomes PM",
+    "description": "First woman elected to lead a Muslim-majority nation.",
+    "icon": "👑",
+    "image": "/images/timeline/1988.jpg",
+    "impact": "A landmark moment for democracy and women's rights."
+  },
+  {
+    "year": 1998,
+    "title": "Nuclear Tests at Chagai",
+    "description": "Pakistan conducts nuclear tests (28 & 30 May), declaring itself a nuclear power.",
+    "icon": "☢️",
+    "image": "/images/timeline/1998.jpg",
+    "impact": "A shift in the balance of power in South Asia."
+  },
+  {
+    "year": 2005,
+    "title": "Kashmir Earthquake",
+    "description": "A 7.6 magnitude earthquake devastates northern Pakistan on 8 October.",
+    "icon": "🌍",
+    "image": "/images/timeline/2005.jpg",
+    "impact": "A natural disaster that united the nation in a spirit of resilience."
+  },
+  {
+    "year": 2010,
+    "title": "Historic Floods",
+    "description": "Catastrophic monsoon floods impact millions, prompting global relief efforts.",
+    "icon": "💧",
+    "image": "/images/timeline/2010.jpg",
+    "impact": "A stark reminder of the country's vulnerability to climate change."
+  },
+  {
+    "year": 2015,
+    "title": "National Action Plan & Security Gains",
+    "description": "Counter-terror operations intensify; security landscape gradually improves.",
+    "icon": "🛡️",
+    "image": "/images/timeline/2015.jpg",
+    "impact": "A collective effort to restore peace and stability."
+  },
+  {
+    "year": 2018,
+    "title": "General Elections",
+    "description": "PTI forms federal government; political landscape shifts.",
+    "icon": "🗳️",
+    "image": "/images/timeline/2018.jpg",
+    "impact": "A major change in political leadership and national policy."
+  },
+  {
+    "year": 2022,
+    "title": "Political Transition",
+    "description": "No-confidence vote leads to change of government; economic headwinds intensify.",
+    "icon": "🔄",
+    "image": "/images/timeline/2022.jpg",
+    "impact": "A period of political instability and economic uncertainty."
+  },
+  {
+    "year": 2023,
+    "title": "Climate & Economic Challenges",
+    "description": "Rebuilding after 2022 floods; ongoing IMF program and reforms.",
+    "icon": "📈",
+    "image": "/images/timeline/2023.jpg",
+    "impact": "The ongoing struggle to manage economic and environmental crises."
+  },
+  {
+    "year": 2024,
+    "title": "Elections & Coalition Government",
+    "description": "Post-election coalition forms at the center; economic stabilization efforts continue.",
+    "icon": "🤝",
+    "image": "/images/timeline/2024.jpg",
+    "impact": "A new political alignment to tackle pressing national issues."
+  },
+  {
+    "year": 2025,
+    "title": "Centennial Preparations",
+    "description": "Nationwide projects and commemorations for approaching 100 years of independence.",
+    "icon": "🎉",
+    "image": "/images/timeline/2025.jpg",
+    "impact": "Looking forward to a century of independence and progress."
+  }
+]

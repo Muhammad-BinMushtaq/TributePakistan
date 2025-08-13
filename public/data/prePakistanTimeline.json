@@ -1,0 +1,11 @@
+[
+  { "year": 1857, "title": "War of Independence", "description": "The first major uprising against British colonial rule in the Indian subcontinent.", "image": "/images/timeline/1857.jpg" },
+  { "year": 1877, "title": "Aligarh Movement Consolidates", "description": "Sir Syed Ahmad Khan’s educational reforms influence Muslim socio-political awakening.", "image": "/images/timeline/aligarh.jpg" },
+  { "year": 1906, "title": "All-India Muslim League Founded", "description": "Formed in Dhaka to advance the political rights of Muslims in British India.", "image": "/images/timeline/1906.jpg" },
+  { "year": 1916, "title": "Lucknow Pact", "description": "Congress and the Muslim League agree on a joint scheme for constitutional reforms.", "image": "/images/timeline/1916.jpg" },
+  { "year": 1930, "title": "Allama Iqbal’s Allahabad Address", "description": "Iqbal articulates the vision of a separate Muslim state in northwestern India.", "image": "/images/timeline/1930.jpg" },
+  { "year": 1935, "title": "Government of India Act 1935", "description": "Introduced provincial autonomy; a major step in constitutional development.", "image": "/images/timeline/1935.jpg" },
+  { "year": 1940, "title": "Lahore Resolution", "description": "Muslim League demands independent states in Muslim-majority regions (23 March).", "image": "/images/timeline/1940.jpg" },
+  { "year": 1946, "title": "Cabinet Mission Plan & Elections", "description": "Talks on power transfer; Muslim League’s electoral success strengthens demand for Pakistan.", "image": "/images/timeline/1946.jpg" },
+  { "year": 1947, "title": "Partition of British India", "description": "India divided into two dominions; Pakistan is created (14–15 August).", "image": "/images/timeline/1947-partition.jpg" }
+]
